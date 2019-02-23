@@ -4,7 +4,7 @@
 
 Run `npm install` to install dependencies
 Run `npm start` or `npm run dev` to start application, by default port 3000 is used.
-Run `npm run story` to view component storybooks.
+Run `npm run storybook` to view component storybooks.
 
 ## development guidelines
 
